@@ -1,2 +1,2 @@
 # myApp
-learning git
+Matshidiso Jabane (leader)
